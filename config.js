@@ -10,13 +10,13 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['27729378630']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['27729378630']
+global.Owner = ['6281255369012']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['6281255369012']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['6281255369012']
 global.BotName = "YUKINO"
 global.packname = "YUKINO"
-global.author = "Empty-Sama"
-global.OwnerName = "Empty-sama Sir🚀🌟"
+global.author = "Ash Uchiha"
+global.OwnerName = "ASH x SYF🚀🌟"
 global.BotSourceCode = "https://github.com"
 global.SupportGroupLink = "https://chat.whatsapp.com/"
 global.sessionName = "session"
@@ -27,11 +27,11 @@ global.Port = "7575"
 global.prefa = [':'] 
 
 
-global.location = "South Africa"
+global.location = "la la land"
 global.reactmoji = "⚡"
 global.themeemoji = "✨"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/Yukino-Bot.mp4' }
-global.websitex = "https://github.com/Empty-sama"
+global.websitex = "https://github.com/"
 global.lolhuman = "KaysaS"
 
 
