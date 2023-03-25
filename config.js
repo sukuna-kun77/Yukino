@@ -10,9 +10,9 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['6281255369012']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['6281255369012']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['6281255369012']
+global.Owner = ['916006909359']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['916006909359']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['916006909359']
 global.BotName = "YUKINO"
 global.packname = "YUKINO"
 global.author = "Abhi kun"
