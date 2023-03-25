@@ -57,7 +57,7 @@ const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')
 
         if(time2 < "23:59:00"){
 
-        var ucapanWaktu = 'Good night 🌌'
+        var ucapanWaktu = 'Good evening 🌌'
 
 }
 
@@ -87,7 +87,7 @@ const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')
 
         if(time2 < "05:00:00"){
 
-        var ucapanWaktu = 'Good night 🏙'
+        var ucapanWaktu = 'Good evening  🏙'
 
 }
 
@@ -5615,7 +5615,7 @@ Yukino.sendMessage(from, { react: { text: "✨" , key: m.key }})
 const helpmenu = `(🤍ω🤍) Konnichiwa *${pushname}* Sempaii! ${ucapanWaktu} ,
 
 │───────────────────────│
-┠❖│▸ ${pushname} Watashi wa *${BotName}*, a Bot Developed by *Empty-Senpai*.
+┠❖│▸ ${pushname} Watashi wa *${BotName}*, a Bot Developed by *Abhijeet-Senpai*.
 │───────────────────────│
 │╭────────────────···▸
 ┠─────═[ *TODAY* ]═────
